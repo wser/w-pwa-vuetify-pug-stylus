@@ -1,4 +1,4 @@
-# w-irapp-pwa-vuetify-pug
+# w-pwa-vuetify-pug-stylus
 
 ## Project setup
 ```
